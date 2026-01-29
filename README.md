@@ -14,18 +14,17 @@ _Create a GitHub Action and use it in a workflow._
 </header>
 
 <!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 5: Trigger the workflow
+## Finish
 
-_You've now got a fully functioning workflow! :smile:_
+_Congratulations friend, you've completed this course!_
 
-Your new action will run any time a pull request has been opened.
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
-**Seeing your _action_ in action**: The status of your action is shown in a pull request before you merge, look for **All checks have passed** when you try out the steps below. You can also view them from the **Actions** tab in your repository. From there, you will see all the actions that have run, and you can click on each action to view details and access log files.
+Here's a recap of all the tasks you've accomplished in your repository:
 
 ![View an action's log](https://user-images.githubusercontent.com/16547949/62388049-4e64e600-b52a-11e9-8bf5-db0c5452360f.png)
 
