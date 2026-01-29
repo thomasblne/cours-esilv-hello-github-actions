@@ -26,10 +26,15 @@ _Congratulations friend, you've completed this course!_
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
-- You've created your first GitHub Actions workflow file.
-- You learned where to make your workflow file.
-- You created an event trigger, a job, and steps for your workflow.
-- You're ready to automate anything you can dream of.
+![View an action's log](https://user-images.githubusercontent.com/16547949/62388049-4e64e600-b52a-11e9-8bf5-db0c5452360f.png)
+
+### :keyboard: Activity: Trigger the workflow
+
+1. Make a new branch named `test-workflow`.
+1. Commit any change to your branch, such as adding an emoji to your README.md (🥸) file.
+1. Create the pull request on your branch.
+1. See your action run on your pull request.
+1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
 
 <footer>
 
